@@ -14,21 +14,17 @@
 </p></th>
   </tr>
   <tr>
-    <td>p align="left">
+    <td><p align="left">
   <img src="https://github.com/lephathien/DoanVien_PNT/blob/d3038ffd5fc88f4f943ba172ae819b2862207ff4/3.jpg" width="350" title="hover text">
 </p></td>
-    <td>p align="left">
+    <td><p align="left">
   <img src="https://github.com/lephathien/DoanVien_PNT/blob/d3038ffd5fc88f4f943ba172ae819b2862207ff4/4.jpg" width="350" title="hover text">
 </p></td>
-    <td>p align="left">
+    <td><p align="left">
   <img src="https://github.com/lephathien/DoanVien_PNT/blob/d3038ffd5fc88f4f943ba172ae819b2862207ff4/5.jpg" width="350" title="hover text">
 </p></td>
   </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+  
 </table>
 
 
