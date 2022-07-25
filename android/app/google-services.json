@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126626881343",
+    "firebase_url": "https://sotaydoan-761e0-default-rtdb.firebaseio.com",
+    "project_id": "sotaydoan-761e0",
+    "storage_bucket": "sotaydoan-761e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126626881343:android:5dc517da7def7eeb44fd8a",
+        "android_client_info": {
+          "package_name": "com.example.sotaydoan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126626881343-d3jo34gpf6ahf609oedquigsh31a0r8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzy5Sh9Ln5RhSDofhyXxLHTaptGwZCx14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126626881343-d3jo34gpf6ahf609oedquigsh31a0r8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
